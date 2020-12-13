@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=tashanduncan.tashanduncan)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tashanduncaan&show_icons=true&theme=tokyonight)
