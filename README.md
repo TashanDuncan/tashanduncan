@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript, React
 - 👯 I’m looking to collaborate on anything i find interesting!
 - 📫 How to reach me: Email or DM
-- ⚡ Fun fact: ... i'll get back to you on that one
+- ⚡ Fun fact: ... my final baby tooth fell when i was 28 years old 😅
