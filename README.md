@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning Typescript, React for Work
-- 👨🏾‍💻 I use SvelteKit for hobby projects
+- 🧙🏿‍♂️ Currently on a journey to become a Typescript Wizard 
 - 👯 I’m looking to collaborate on anything I find interesting!
 - 📫 How to reach me: Email or DM
