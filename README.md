@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🧙🏿‍♂️ Currently on a journey to become a Typescript Wizard 
+- 🧙🏿‍♂️ Currently on a journey to become a Web Dev Wizard 
 - 👯 I’m looking to collaborate on anything I find interesting!
 - 📫 How to reach me: Email or DM
